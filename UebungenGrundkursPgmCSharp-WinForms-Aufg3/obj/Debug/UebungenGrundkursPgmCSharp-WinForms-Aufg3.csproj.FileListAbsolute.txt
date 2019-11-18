@@ -1,0 +1,10 @@
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\bin\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.exe.config
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\bin\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.exe
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\bin\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.pdb
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp_WinForms_Aufg3.Form_calcu.resources
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp_WinForms_Aufg3.Properties.Resources.resources
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.csproj.GenerateResource.cache
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.exe
+C:\Users\walte\source\repos\UebungenGrundkursPgmCSharp-WinForms-Aufg3\UebungenGrundkursPgmCSharp-WinForms-Aufg3\obj\Debug\UebungenGrundkursPgmCSharp-WinForms-Aufg3.pdb
